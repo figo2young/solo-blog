@@ -10,8 +10,13 @@ Java学习交流社区博客
 
 ### 最新
 
+* [一篇反射获取类、方法、属性值的代码总结](https://www.jvscc.cn/articles/2019/09/02/1567417547370.html)
+* [理解clone方法](https://www.jvscc.cn/articles/2019/09/02/1567415776161.html)
+* [类的实例化顺序](https://www.jvscc.cn/articles/2019/09/02/1567406392256.html)
 * [String s= new String("xyz");创建多少个对象](https://www.jvscc.cn/articles/2019/08/30/1567158413149.html)
+* [《Java基础》面试题（二）](https://www.jvscc.cn/articles/2019/08/30/1567158083430.html)
 * [《Java基础》面试题（一）](https://www.jvscc.cn/articles/2019/08/30/1567151557537.html)
+* [面试题大全（持续更新中...）](https://www.jvscc.cn/articles/2019/08/30/1567149259566.html)
 * [世界，你好！](https://www.jvscc.cn/hello-solo)
 
 
